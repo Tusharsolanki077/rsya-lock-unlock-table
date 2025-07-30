@@ -20,9 +20,9 @@ table-lock-demo/
 └── index.html   # Standalone frontend UI
 └── style.css
 
-## Directly test with 
+## Directly test with deployed link
 
-backend url - 
+backend url - https://rsya-lock-unlock-table.onrender.com
 
 
 ## Setup
